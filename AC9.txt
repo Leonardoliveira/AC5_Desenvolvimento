@@ -1,0 +1,7 @@
+AC9 - Foram validadas as rotas e verificado que o CSS esta fucionando conforme deveria não sendo necessária nenhuma alteração.
+
+Leonardo Oliveira 
+Luiz Felipe Couto 
+Raffael Oliveira
+Renata Icimoto
+Suelen Nascimento 
